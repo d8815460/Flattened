@@ -13,4 +13,7 @@
 +(BOOL)isVersion6AndBelow;
 
 +(UIImage*)createSolidColorImageWithColor:(UIColor*)color andSize:(CGSize)size;
+
++ (NSString*)getTimeAsString:(NSDate *)lastDate;
+
 @end

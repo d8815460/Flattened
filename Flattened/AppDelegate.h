@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 #import "MenuViewController.h"
+#import <Reachability.h>
+#import "GoogleMapViewController.h"
 
 @class PaperFoldNavigationController;
 
@@ -30,10 +32,30 @@ typedef enum {
 @property (strong, nonatomic) UIBarButtonItem *barButtonFromMaster;
 @property (strong, nonatomic) UIBarButtonItem *barButtonForDetail;
 
+@property (strong, nonatomic) GoogleMapViewController *mainMap;
+@property (nonatomic, strong) Reachability *hostReach;                                  //判斷網路是否可用
+@property (nonatomic, strong) Reachability *internetReach;                              //判斷網路是否可用
+@property (nonatomic, strong) Reachability *wifiReach;                                  //判斷wifi網路是否可用
+@property (nonatomic, readonly) int networkStatus;
+
+@property (nonatomic, assign) CLLocationAccuracy filterDistance;
+@property (nonatomic, strong) CLLocation *currentLocation;
+
++ (NSInteger)OSVersion;
 + (AppDelegate *)sharedDelegate;
+
 + (void)customizeTabsForController:(UITabBarController *)tabVC;
 - (void)togglePaperFold:(id)sender;
 - (void)resetAfterTypeChange:(BOOL)cancel;
 - (void)showMenuiPad:(id)sender;
+
+- (BOOL)isParseReachable;
+- (void)presentWelcomeViewController;
+- (void)presentWelcomeViewControllerAnimated:(BOOL)animated;
+- (void)presentFirstSignInViewController;
+- (void)presentGoogleMapController;
+- (void)logOut;
+
+- (BOOL)handleActionURL:(NSURL *)url;                                                   //偵測動作URL_照相機跟相簿偵測
 
 @end

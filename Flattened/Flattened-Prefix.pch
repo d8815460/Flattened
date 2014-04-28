@@ -14,4 +14,10 @@
     #import <UIKit/UIKit.h>
     #import <Foundation/Foundation.h>
     #import "UIImage+iPhone5.h"
+#import <Parse/Parse.h>
+#import <GoogleMaps/GoogleMaps.h>
+#import "CMCache.h"
+#import "CMConstants.h"
+#import "CMUtility.h"
+
 #endif
