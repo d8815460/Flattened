@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string></string>
+	<key>avatar</key>
+	<string></string>
+	<key>cover</key>
+	<string></string>
+	<key>followers</key>
+	<integer>0</integer>
+	<key>following</key>
+	<integer>0</integer>
+	<key>timeline</key>
+	<array>
+		<dict>
+			<key>id</key>
+			<integer>2</integer>
+			<key>name</key>
+			<string>Women shoes</string>
+			<key>description</key>
+			<string>This is a short description</string>
+			<key>brand</key>
+			<string>Shop</string>
+			<key>price</key>
+			<integer>280</integer>
+			<key>sizes</key>
+			<array>
+				<integer>35</integer>
+				<integer>37</integer>
+				<integer>39</integer>
+				<integer>41</integer>
+				<integer>42</integer>
+			</array>
+			<key>colors</key>
+			<array>
+				<string>#DE3B30</string>
+				<string>#8A5219</string>
+				<string>#FFF632</string>
+				<string>#8F8F8F</string>
+				<string>#3D3D3D</string>
+				<string>#067DFB</string>
+			</array>
+			<key>image</key>
+			<string>list-item-prod2-image1</string>
+			<key>images</key>
+			<array>
+				<string>list-item-prod2-image1</string>
+				<string>list-item-prod2-image1</string>
+				<string>list-item-prod2-image1</string>
+			</array>
+			<key>person</key>
+			<dict>
+				<key>avatar</key>
+				<string>list-item-avatar2</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

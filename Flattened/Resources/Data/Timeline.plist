@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>subject</key>
+		<string>Lorem ipsum dolor sit amet</string>
+		<key>description</key>
+		<string>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </string>
+		<key>body</key>
+		<string>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis.Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia</string>
+		<key>recipients</key>
+		<array>
+			<string>Christian Bale</string>
+			<string>Morgan Freeman</string>
+		</array>
+		<key>date</key>
+		<date>2013-06-02T12:28:22Z</date>
+		<key>person</key>
+		<dict>
+			<key>name</key>
+			<string>Tom Cruise</string>
+			<key>avatar</key>
+			<string>list-item-avatar1</string>
+			<key>email</key>
+			<string>tomcruise@gmail.com</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>subject</key>
+		<string>Lorem ipsum dolor sit amet</string>
+		<key>description</key>
+		<string>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </string>
+		<key>body</key>
+		<string>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis.
+
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+
+Nemo enim ipsam voluptatem quia</string>
+		<key>recipients</key>
+		<array>
+			<string>Morgan Freeman</string>
+		</array>
+		<key>date</key>
+		<date>2013-06-02T00:28:22Z</date>
+		<key>person</key>
+		<dict>
+			<key>name</key>
+			<string>Christian Bale</string>
+			<key>avatar</key>
+			<string>list-item-avatar2</string>
+			<key>email</key>
+			<string>christianbale@gmail.com</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>subject</key>
+		<string>Lorem ipsum dolor sit amet</string>
+		<key>description</key>
+		<string>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </string>
+		<key>body</key>
+		<string>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis.
+
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+
+Nemo enim ipsam voluptatem quia</string>
+		<key>recipients</key>
+		<array>
+			<string>Christian Bale</string>
+			<string>Tom Cruise</string>
+			<string>Morgan Freeman</string>
+		</array>
+		<key>date</key>
+		<date>2013-06-01T12:28:22Z</date>
+		<key>person</key>
+		<dict>
+			<key>name</key>
+			<string>Johnny Depp</string>
+			<key>avatar</key>
+			<string>list-item-avatar3</string>
+			<key>email</key>
+			<string>johnnydepp@gmail.com</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>subject</key>
+		<string>Lorem ipsum dolor sit amet</string>
+		<key>description</key>
+		<string>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </string>
+		<key>body</key>
+		<string>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis.
+
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+
+Nemo enim ipsam voluptatem quia</string>
+		<key>recipients</key>
+		<array>
+			<string>Christian Bale</string>
+			<string>Johnny Depp</string>
+			<string>Morgan Freeman</string>
+		</array>
+		<key>date</key>
+		<date>2013-05-31T12:28:22Z</date>
+		<key>person</key>
+		<dict>
+			<key>name</key>
+			<string>Tom Cruise</string>
+			<key>avatar</key>
+			<string>list-item-avatar1</string>
+			<key>email</key>
+			<string>tomcruise@gmail.com</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>subject</key>
+		<string>Lorem ipsum dolor sit amet</string>
+		<key>description</key>
+		<string>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </string>
+		<key>body</key>
+		<string>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis.
+
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+
+Nemo enim ipsam voluptatem quia</string>
+		<key>recipients</key>
+		<array>
+			<string>Christian Bale</string>
+			<string>Tom Cruise</string>
+			<string>Morgan Freeman</string>
+			<string>Johnny Depp</string>
+		</array>
+		<key>date</key>
+		<date>2013-05-27T12:28:22Z</date>
+		<key>person</key>
+		<dict>
+			<key>name</key>
+			<string>Leonardo DiCaprio</string>
+			<key>avatar</key>
+			<string>list-item-avatar4</string>
+			<key>email</key>
+			<string>leonardodicaprio@gmail.com</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>subject</key>
+		<string>Lorem ipsum dolor sit amet</string>
+		<key>description</key>
+		<string>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </string>
+		<key>body</key>
+		<string>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis.
+
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+
+Nemo enim ipsam voluptatem quia</string>
+		<key>recipients</key>
+		<array>
+			<string>Christian Bale</string>
+		</array>
+		<key>date</key>
+		<date>2013-04-25T12:28:22Z</date>
+		<key>person</key>
+		<dict>
+			<key>name</key>
+			<string>Tom Cruise</string>
+			<key>avatar</key>
+			<string>list-item-avatar1</string>
+			<key>email</key>
+			<string>tomcruise@gmail.com</string>
+		</dict>
+	</dict>
+</array>
+</plist>
